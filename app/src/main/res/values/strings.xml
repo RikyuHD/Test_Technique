@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Technical_test</string>
+    <string name="app_technical_display">Click for display Android ID and IMEI :</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="Author">By FIEVET Vincent</string>
+
+
+</resources>
